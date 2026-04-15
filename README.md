@@ -13,12 +13,9 @@ The app is built with a focus on clean code and scalability:
 * **Framework:** SwiftUI (100% Declarative UI)
 * **Architecture:** MVVM (Model-View-ViewModel)
 * **Logic:** Swift Concurrency (Async/Await) for AI integration
+* **Data Persistence:** SwiftData / CoreData
 
 ## 🧠 Key Features
 * **AI Vocabulary Engine:** Generates real-world usage examples and synonyms.
 * **Personalized Paths:** Adapts to user progress using intelligent algorithms.
 * **Modern UX:** Smooth transitions and intuitive navigation built for iOS.
-
----
-### 📬 Contact
-For recruitment inquiries or to request access to the private source code, please contact [devGrigory](https://github.com/devGrigory).
