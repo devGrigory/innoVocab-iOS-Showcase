@@ -1,0 +1,15 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear if you use a text editor
+*.swp
+*.tmspo
+.vscode/
+
+# Ignore local environment files
+.env
